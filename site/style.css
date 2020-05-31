@@ -51,9 +51,9 @@ button{
 section{
     background: silver;
     color: blue;
-    padding: 20px;
+    padding: 50px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 div{
     background: crimson;
