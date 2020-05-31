@@ -55,6 +55,13 @@ section{
     display: flex;
     flex-direction: column;
 }
+section1{
+    background: silver;
+    color: blue;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+}
 div{
     background: crimson;
     color: rgb(255, 255, 255);
